@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>theandriodphone</SelectedDevice>
     <DefaultDevice>theandriodphone</DefaultDevice>
+    <ActiveDebugProfile>theandriodphone</ActiveDebugProfile>
   </PropertyGroup>
 </Project>

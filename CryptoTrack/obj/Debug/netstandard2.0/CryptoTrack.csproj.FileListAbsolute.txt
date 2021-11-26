@@ -1,6 +1,5 @@
 C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\bin\Debug\netstandard2.0\CryptoTrack.deps.json
 C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\bin\Debug\netstandard2.0\CryptoTrack.dll
-C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\CryptoTrack.csprojAssemblyReference.cache
 C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\CryptoTrack.AssemblyInfoInputs.cache
@@ -11,3 +10,6 @@ C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\Xam
 C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\CryptoTrack.dll
 C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\ref\CryptoTrack.dll
 C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\CryptoTrack.pdb
+C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\CryptoTrack.csproj.AssemblyReference.cache
+C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\CryptoTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack\obj\Debug\netstandard2.0\CryptoTrack.csproj.CoreCompileInputs.cache
