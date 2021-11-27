@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lEjzWPxPQPkFdZ3VQDJha4HUr+ZXCowxznoaJRHOr0S+0Rdhhd2SinAnKPyiNQP/YvEUFq+pANS5Er8Qlpcgrg==",
+  "dgSpecHash": "7R3SZy1YLds8DKY6or4g8wAX0T1Za+1x7OKXZsISqqx/7myMdN7O+parI7JUpA3G34q5UOk8AYUeijtU3/+yLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\campb\\Source\\Repos\\CryptoTrack\\CryptoTrack\\CryptoTrack.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\campb\\.nuget\\packages\\microsoft.appcenter\\4.4.0\\microsoft.appcenter.4.4.0.nupkg.sha512",
+    "C:\\Users\\campb\\.nuget\\packages\\microsoft.appcenter.analytics\\4.4.0\\microsoft.appcenter.analytics.4.4.0.nupkg.sha512",
+    "C:\\Users\\campb\\.nuget\\packages\\microsoft.appcenter.crashes\\4.4.0\\microsoft.appcenter.crashes.4.4.0.nupkg.sha512",
     "C:\\Users\\campb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\campb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\campb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7XVBBEf8S+fJ4330vCQqqCHFdMl3ar6i+QdkTtqvL/sU6TIev4/6+Gq8F/4nD2+SWvaleft7pntyuzRWp4kd0g==",
+  "dgSpecHash": "kANnLiUFjNFC9BfvfQ7NTQcJaY8dt14/0rxc4NQ3boWd1bl3/zYflvCEH6wBmZ6/DypqxWu7jFTPejFBPfOM8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\campb\\Source\\Repos\\CryptoTrack\\CryptoTrack.Android\\CryptoTrack.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\campb\\.nuget\\packages\\microsoft.appcenter\\4.4.0\\microsoft.appcenter.4.4.0.nupkg.sha512",
+    "C:\\Users\\campb\\.nuget\\packages\\microsoft.appcenter.analytics\\4.4.0\\microsoft.appcenter.analytics.4.4.0.nupkg.sha512",
+    "C:\\Users\\campb\\.nuget\\packages\\microsoft.appcenter.crashes\\4.4.0\\microsoft.appcenter.crashes.4.4.0.nupkg.sha512",
     "C:\\Users\\campb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\campb\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
     "C:\\Users\\campb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

@@ -1,0 +1,1 @@
+C:\Users\campb\Source\Repos\CryptoTrack\CryptoTrack.UWP\CryptoTrack.UWP.csproj;x86
